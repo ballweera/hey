@@ -1,5 +1,5 @@
 package hey
 
-func Ha() {
+func Ha() string {
 	return "Ha.. hahaha"
 }
